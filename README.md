@@ -1,6 +1,8 @@
 # erfan-font قلم عرفان
 قلم پیکسلی فارسی عرفان. erfan pixel Persian/Arabic font
 
+![picture](take this fa.jpeg)
+
 # برای انجام
 - نوشتن یک README بهتر
 - افزودن یک پروانهٔ آزاد به مخزن
