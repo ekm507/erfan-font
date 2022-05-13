@@ -1,4 +1,4 @@
-# erfan-font
+# erfan-font قلم عرفان
 قلم پیکسلی فارسی عرفان. erfan pixel Persian/Arabic font
 
 # برای انجام
